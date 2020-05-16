@@ -1,0 +1,3 @@
+endpoint: ${evn:PRISMA_ENDPOINT}
+datamodel: datamodel.prisma
+# secret: ${evn:PRISMA_SECRET}
